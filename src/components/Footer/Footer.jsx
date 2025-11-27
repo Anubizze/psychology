@@ -31,8 +31,8 @@ const Footer = () => {
           <div className="footer-section">
             <h4>{t({ ru: 'Контакты', kz: 'Байланыс' })}</h4>
             <p>
-              <a href="tel:+77056250389" style={{ color: 'inherit', textDecoration: 'none' }}>
-                📞 +7 (705) 625-03-89
+              <a href="tel:+77076750099" style={{ color: 'inherit', textDecoration: 'none' }}>
+                📞 +7 (707) 675-00-99
               </a>
             </p>
             <p>
